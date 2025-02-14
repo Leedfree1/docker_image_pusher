@@ -1,1 +1,1 @@
-bitnami/deepspeed:latest
+nvidia/cuda:11.7.1-cudnn8-devel-ubuntu20.04
